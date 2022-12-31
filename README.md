@@ -1,5 +1,7 @@
 # NeuralMT
 
+** Loss: the previous 20 epochs with AdamW, the latter 20 epochs with SGD **
+
 原始句子1: 在福克斯新闻报道后，特朗普先生的推文开始了。
 
 机器翻译1: 在福克斯新闻发布后,特朗普的推特开始。 
